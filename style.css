@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@1,300&family=Pacifico&display=swap');
+
+h1 {
+	color: purple;
+	background-color : yellow;
+}
+
+a{
+	text-decoration: 
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Karla', sans-serif;
+}
+
+p, a {
+	font-family: 'Pacifico', cursive;
+}
+
+div
